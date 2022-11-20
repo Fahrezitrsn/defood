@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="316dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-28dp"
+        android:layout_marginLeft="-28dp"
+        android:layout_marginTop="4dp"
+        app:srcCompat="@drawable/hi" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="2dp"
+        android:layout_marginEnd="6dp"
+        android:layout_marginRight="6dp"
+        app:srcCompat="@drawable/ikonwajah" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="232dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginTop="43dp"
+        app:srcCompat="@drawable/apayanginginkamumakanhariini" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="49dp"
+        android:layout_marginEnd="1dp"
+        app:srcCompat="@drawable/setting" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="55dp"
+        android:layout_marginEnd="11dp"
+        app:srcCompat="@drawable/filter" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="119dp"
+        android:layout_height="98dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="-1dp"
+        android:layout_marginLeft="-1dp"
+        android:layout_marginTop="94dp"
+        app:srcCompat="@drawable/categori" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="121dp"
+        android:layout_height="101dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="109dp"
+        android:layout_marginTop="93dp"
+        app:srcCompat="@drawable/kue" />
+
+    <ImageView
+        android:id="@+id/imageView9"
+        android:layout_width="121dp"
+        android:layout_height="101dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="221dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="92dp"
+        app:srcCompat="@drawable/minuman" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="121dp"
+        android:layout_height="101dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginLeft="332dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginEnd="-42dp"
+        app:srcCompat="@drawable/sarapan" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="227dp"
+        android:layout_height="142dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="217dp"
+        app:srcCompat="@drawable/gadogado" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="171dp"
+        android:layout_height="146dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="215dp"
+        android:layout_marginEnd="4dp"
+        app:srcCompat="@drawable/ayamgeprek" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="226dp"
+        android:layout_height="138dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginBottom="166dp"
+        app:srcCompat="@drawable/esteh" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="176dp"
+        android:layout_height="136dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="169dp"
+        app:srcCompat="@drawable/esdawet" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="192dp"
+        android:text="Pilihan Makanan" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginBottom="317dp"
+        android:text="Pilihan Minuman" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginBottom="51dp"
+        app:srcCompat="@drawable/ikon" />
+</RelativeLayout>
